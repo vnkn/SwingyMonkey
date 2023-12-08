@@ -1,4 +1,3 @@
-(Fill this in with run instructions.)
-
-In order to run our code, run our final version of stub: python stubfinal.py
+This is a repository simulating a Swing Monkey with various reinforcement learning algorithms.
+In order to run this code run python stubfinal.py
 
